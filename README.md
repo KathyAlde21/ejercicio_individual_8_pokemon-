@@ -1,4 +1,4 @@
-**_<h2 align="center">:vulcan_salute: Ejercicio Individual - xxx :computer:</h2>_**
+**_<h2 align="center">:vulcan_salute: Ejercicio Individual 8 - Pokémon :computer:</h2>_**
 
 Proyecto realizado según los siguientes requerimientos:
 
@@ -13,7 +13,6 @@ No siempre la primera elección es la correcta, o quizás te equivocaste a la ho
 3. Al dar clic en __"Elegir"__ la sección de botones debe cambiar completamente y mostrar ahora _dos nuevas opciones_: __Cancelar y Confirmar__.
     - __Confirmar__ por ahora _no debe hacer nada_.
     - __Cancelar__ debe darte la oportunidad de _elegir nuevamente un Pokémon_, pero no solamente mostrar los botones de elección, si no que _la imagen también debe cambiar_ y mostrar la que se tenía en un inicio.
-
 
 
 <img src="./app/src/main/res/drawable/eligiendo_pokemon.jpg" alt="">
